@@ -193,6 +193,7 @@ p {
 
 .scoopy {
 	background: url(https://himigatliwanag.files.wordpress.com/2016/01/scoopy.jpg) bottom left;
+	background-repeat: no-repeat;
 	height: 495px;
 	margin-bottom: 10px;
 	width: 100%;
